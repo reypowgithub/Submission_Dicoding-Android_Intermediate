@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CaritaApp</string>
+    <string name="login">Login</string>
+    <string name="signin">SignIn</string>
+    <string name="copyright">© 2023 Caritaku</string>
+
+    <string name="title_singup">Sign In</string>
+    <string name="title_name">Name</string>
+    <string name="title_email">Email</string>
+    <string name="title_password">Password</string>
+
+    <!--String di Welcome-->
+    <string name="title_menu_1">CARITAKU</string>
+    <string name="desc_menu_1">Share your unique story with the world, connect with like-minded people, and discover other peoples interesting journeys through sharing your daily activities.</string>
+    <string name="choose_singup">SignIn</string>
+    <string name="iv">Image View</string>
+    <string name="greetings">Hi, %s</string>
+    <string name="continue_btn">Next</string>
+    <string name="logout_btn">LogOut</string>
+
+    <!--String di Authenkasi-->
+    <string name="text_have_account">You already have an account?</string>
+    <string name="hint_register_name">Name</string>
+    <string name="title_login">Welcome back</string>
+    <string name="text_nothave_account">You dont have an account?</string>
+    <string name="Login">Login</string>
+    <string name="invalid_email">The email entered is invalid</string>
+    <string name="must_filled">Must filled</string>
+
+    <!--String di Item row-->
+    <string name="username_story">Username</string>
+    <string name="description_story">Story Description\n</string>
+    <string name="date_story">01 mei 2023</string>
+
+    <!--String di Informasi-->
+    <string name="information">Information</string>
+    <string name="next">Next</string>
+    <string name="success_singup">Registration Successful, please log in using your new account</string>
+    <string name="register_failed">Registration Not successful</string>
+    <string name="success_login">Login Successful, Welcome back!!</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="upload_success">Story uploaded successfully</string>
+    <string name="upload_failed">Story failed to upload</string>
+    <string name="success_logout">Logout Success</string>
+
+
+    <!--String di Add Story-->
+    <string name="gallery_btn">Galery</string>
+    <string name="preview_image">Preview Picture</string>
+    <string name="Camera_btn">Camera</string>
+    <string name="Upload_btn">Upload</string>
+    <string name="create_date">Created at %1$s,</string>
+    <string name="no_story">There are no stories</string>
+    <string name="errorupload">Couldnt upload because there is no file or description</string>
+    <string name="takePhoto_success">Berhasil Mengambil gambar</string>
+    <string name="takePhoto_failed">Failed to take picture</string>
+    <string name="startcamera_failed">Failed to bring up the camera</string>
+    <string name="description_hint">Enter the caption</string>
+    <string name="pass_invalid">Password length is less than 8</string>
+
+    <!--  String di Maps  -->
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="my_position">My Position</string>
+    <string name="retry">Retry</string>
+
+
+</resources>

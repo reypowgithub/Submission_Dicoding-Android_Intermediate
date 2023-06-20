@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">CaritaApp</string>
+    <string name="login">Masuk</string>
+    <string name="signin">Registrasi</string>
+    <string name="copyright">© 2023 Caritaku</string>
+
+    <string name="title_singup">Registrasi</string>
+    <string name="title_name">Nama</string>
+    <string name="title_email">Surel</string>
+    <string name="title_password">Kata Sandi</string>
+
+    <!--String di Welcome-->
+    <string name="title_menu_1">CARITAKU</string>
+    <string name="desc_menu_1">Bagikan ceritamu yang unik dengan dunia, terhubunglah dengan orang-orang yang memiliki minat yang sama, dan temukan perjalanan menarik orang lain melalui berbagi aktivitasmu sehari-hari.</string>
+    <string name="choose_singup">Registrasi</string>
+    <string name="iv">gambar view</string>
+    <string name="greetings">Hallo, %s</string>
+    <string name="continue_btn">Lanjutkan</string>
+    <string name="logout_btn">Keluar</string>
+
+    <!--String di Authenkasi-->
+    <string name="text_have_account">Kamu telah mempunyai akun?</string>
+    <string name="hint_register_name">Nama</string>
+    <string name="title_login">Selamat Datang</string>
+    <string name="text_nothave_account">Kamu tidak punya akun?</string>
+    <string name="Login">Masuk</string>
+    <string name="invalid_email">Email yang dimasukan tidak absah</string>
+    <string name="must_filled">harus diisi</string>
+
+    <!--String di Item row-->
+    <string name="username_story">nama pengguna</string>
+    <string name="description_story">Deskripsi Cerita\n</string>
+    <string name="date_story">01 mei 2023</string>
+
+    <!--String di Informasi-->
+    <string name="information">Informasi</string>
+    <string name="next">Lanjut</string>
+    <string name="success_singup">Registrasi Berhasil, silahkan masuk menggunakan akun baru kamu</string>
+    <string name="register_failed">Registrasi Tidak berhasil</string>
+    <string name="success_login">Masuk Berhasil, Selamat datang kembali!!</string>
+    <string name="login_failed">Masuk gagal</string>
+    <string name="upload_success">Cerita berhasil diunggah</string>
+    <string name="upload_failed">Cerita gagal diunggah</string>
+    <string name="success_logout">Berhasil Keluar</string>
+
+
+    <!--String di Add Story-->
+    <string name="gallery_btn">Galeri</string>
+    <string name="preview_image">foto pratinjau</string>
+    <string name="Camera_btn">Kamera</string>
+    <string name="Upload_btn">Unggah</string>
+    <string name="create_date">Dibuat pada %1$s,</string>
+    <string name="no_story">Tidak ada cerita</string>
+    <string name="errorupload">Tidak bisa mengunggah karena tidak ada file atau deskripsi</string>
+    <string name="takePhoto_success">Berhasil Mengambil gambar</string>
+    <string name="takePhoto_failed">Gagal mengambil gambar.</string>
+    <string name="startcamera_failed">Gagal memunculkan kamera</string>
+    <string name="description_hint">Masukan Tulisan</string>
+    <string name="pass_invalid">Panjang password kurang dari 8</string>
+
+    <!--  String di Maps  -->
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="my_position">Lokasi saya</string>
+    <string name="retry">Muat Ulang</string>
+
+
+</resources>
